@@ -1,6 +1,6 @@
 # La Liga Team Scraper
 
-This Python project scrapes detailed player information for selected La Liga teams from a given URL, allowing users to either display player data in the console or export it to a CSV file. This project uses BeautifulSoup for HTML parsing, Requests for web requests, and CSV and JSON libraries for data handling.
+This Python project scrapes detailed player information for selected La Liga teams from Transfrmarket, allowing users to either display player data in the console or export it to a CSV file. This project uses BeautifulSoup for HTML parsing, Requests for web requests, and CSV and JSON libraries for data handling.
 
 ## Features
 
@@ -37,17 +37,6 @@ This Python project scrapes detailed player information for selected La Liga tea
    pip install requests beautifulsoup4
    ```
 
-3. **Add URLs for Teams**:
-   Ensure `urls.json` includes the `custom_url` for each team in the following format:
-   ```json
-   {
-       "teams": [
-           {"name": "Real Madrid", "custom_url": "https://www.example.com/real-madrid"},
-           {"name": "FC Barcelona", "custom_url": "https://www.example.com/fc-barcelona"},
-           ...
-       ]
-   }
-   ```
 
 ## Usage
 

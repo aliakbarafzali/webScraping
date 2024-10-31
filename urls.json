@@ -1,0 +1,84 @@
+{
+    "teams": [
+        {
+            "name": "Real Madrid",
+            "custom_url": "https://www.transfermarkt.com/real-madrid/startseite/verein/418"
+        },
+        {
+            "name": "FC Barcelona",
+            "custom_url": "https://www.transfermarkt.com/fc-barcelona/startseite/verein/131"
+        },
+        {
+            "name": "Atletico Madrid",
+            "custom_url": "https://www.transfermarkt.com/fc-villarreal/startseite/verein/1050"
+        },
+        {
+            "name": "Sevilla FC",
+            "custom_url": "https://www.transfermarkt.com/fc-sevilla/startseite/verein/368/"
+        },
+        {
+            "name": "Real Sociedad",
+            "custom_url": "https://www.transfermarkt.com/real-sociedad-san-sebastian/startseite/"
+        },
+        {
+            "name": "Villarreal CF",
+            "custom_url": "https://www.transfermarkt.com/fc-villarreal/startseite/verein/1050"
+        },
+        {
+            "name": "Real Betis",
+            "custom_url": "https://www.transfermarkt.com/real-betis-sevilla/spielplan/verein/150/"
+        },
+        {
+            "name": "Athletic Bilbao",
+            "custom_url": "https://www.transfermarkt.com/athletic-bilbao/spielplan/verein/621/"
+        },
+        {
+            "name": "Getafe CF",
+            "custom_url": "https://www.transfermarkt.com/fc-getafe/spielplan/verein/3709/"
+        },
+        {
+            "name": "Valencia CF",
+            "custom_url": "https://www.transfermarkt.com/fc-valencia/spielplan/verein/1049/"
+        },
+        {
+            "name": "RCD Espanyol Barcelona",
+            "custom_url": "https://www.transfermarkt.com/espanyol-barcelona/startseite/verein/714/"
+        },
+        {
+            "name": "Mallorca",
+            "custom_url": "https://www.transfermarkt.com/rcd-mallorca/startseite/verein/237/"
+        },
+        {
+            "name": "Celta Vigo",
+            "custom_url": "https://www.transfermarkt.com/celta-vigo/startseite/verein/940/"
+        },
+        {
+            "name": "Osasuna",
+            "custom_url": "https://www.transfermarkt.com/ca-osasuna/startseite/verein/331/"
+        },
+        {
+            "name": "Las Palmas",
+            "custom_url": "https://www.transfermarkt.com/ud-las-palmas/startseite/verein/472/"
+        },
+        {
+            "name": "Alaves",
+            "custom_url": "https://www.transfermarkt.com/deportivo-alaves/startseite/"
+        },
+        {
+            "name": "CD Leganes",
+            "custom_url": "https://www.transfermarkt.com/cd-leganes/startseite/verein/1244/"
+        },
+        {
+            "name": "Rayo Vallecano",
+            "custom_url": "https://www.transfermarkt.com/rayo-vallecano/startseite/verein/367/"
+        },
+        {
+            "name": "Real Valladolid",
+            "custom_url": "https://www.transfermarkt.com/real-valladolid/startseite/verein/366/"
+        },
+        {
+            "name": "Girona",
+            "custom_url": "https://www.transfermarkt.com/fc-girona/startseite/verein/12321/"
+        }
+    ]
+}

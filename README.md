@@ -97,18 +97,3 @@ Luka Modric,Midfielder,35,Croatia,€10M
 - If the URL is unreachable, `getPage` will print an error message.
 - Missing data elements (e.g., missing table rows or cells) are handled gracefully, with defaults or informative print statements.
 
-## Contributing
-
-1. Fork the project.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Added feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides a clear guide on setting up, running, and understanding the project. Feel free to modify based on any specific preferences or repository details!
